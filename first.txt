@@ -3,3 +3,7 @@ This is to test git added with this file
 
 ********
 checked with new branch
+
+
+******
+check conflicts
